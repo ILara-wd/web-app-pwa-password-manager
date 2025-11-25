@@ -1,0 +1,87 @@
+{
+  "passwords": [
+    {
+      "id": "example-001",
+      "title": "Gmail Personal",
+      "username": "usuario@gmail.com",
+      "encryptedPassword": "{\"iv\":\"kUNZDA==\",\"data\":\"F01pKDQmTl5SIiw4Rl5SIiwzNzg5MTI=\"}",
+      "url": "https://gmail.com",
+      "notes": "Cuenta de correo principal para uso personal",
+      "tags": ["Email"],
+      "favorite": true,
+      "createdAt": "2024-01-15T10:30:00.000Z",
+      "updatedAt": "2024-01-15T10:30:00.000Z"
+    },
+    {
+      "id": "example-002",
+      "title": "Netflix",
+      "username": "usuario@ejemplo.com",
+      "encryptedPassword": "{\"iv\":\"6jgxOFpcWg==\",\"data\":\"IjhGXlIiLDM3ODkxMjM0NTY3ODkwMTI=\"}",
+      "url": "https://www.netflix.com",
+      "notes": "Plan familiar - 4 pantallas",
+      "tags": ["Entertainment"],
+      "favorite": true,
+      "createdAt": "2024-02-20T14:45:00.000Z",
+      "updatedAt": "2024-02-20T14:45:00.000Z"
+    },
+    {
+      "id": "example-003",
+      "title": "Banco Nacional",
+      "username": "12345678",
+      "encryptedPassword": "{\"iv\":\"eyFDV1lcXA==\",\"data\":\"LTRFQl5SIiw4Rl5SIiwzNzg5MTIzNDU2Nzg5MDEy\"}",
+      "url": "https://www.banco.com/login",
+      "notes": "Cuenta de ahorros principal. PIN de seguridad guardado por separado.",
+      "tags": ["Banking"],
+      "favorite": false,
+      "createdAt": "2024-03-10T09:15:00.000Z",
+      "updatedAt": "2024-03-10T09:15:00.000Z"
+    },
+    {
+      "id": "example-004",
+      "title": "LinkedIn",
+      "username": "usuario.profesional@email.com",
+      "encryptedPassword": "{\"iv\":\"OFpcWiEheXs=\",\"data\":\"Q1lcXCEheyEDV1lcXF5SIiw4Rl5SIiwzNzg5\"}",
+      "url": "https://www.linkedin.com",
+      "tags": ["Social Media", "Work"],
+      "favorite": false,
+      "createdAt": "2024-04-05T16:20:00.000Z",
+      "updatedAt": "2024-04-05T16:20:00.000Z"
+    },
+    {
+      "id": "example-005",
+      "title": "Amazon",
+      "username": "comprador@email.com",
+      "encryptedPassword": "{\"iv\":\"TlpcIXl7IUM=\",\"data\":\"V1lcXF5SIiw4Rl5SIiwzNzg5MTIzNDU2Nzg5\"}",
+      "url": "https://www.amazon.com",
+      "notes": "Cuenta Prime activa hasta 2025",
+      "tags": ["Shopping"],
+      "favorite": false,
+      "createdAt": "2024-05-12T11:00:00.000Z",
+      "updatedAt": "2024-05-12T11:00:00.000Z"
+    },
+    {
+      "id": "example-006",
+      "title": "GitHub",
+      "username": "developer123",
+      "encryptedPassword": "{\"iv\":\"WiEheXshQ1c=\",\"data\":\"XCE8DCQmTl5SIiw0Njc4OTAxMjM0NTY3ODk=\"}",
+      "url": "https://github.com",
+      "notes": "Cuenta profesional para proyectos de código abierto. 2FA activado.",
+      "tags": ["Work"],
+      "favorite": true,
+      "createdAt": "2024-06-01T08:30:00.000Z",
+      "updatedAt": "2024-06-01T08:30:00.000Z"
+    },
+    {
+      "id": "example-007",
+      "title": "Portal de Salud",
+      "username": "paciente123",
+      "encryptedPassword": "{\"iv\":\"DCQmTl5SIiw=\",\"data\":\"NCUzkUNZDCQmTl5SIiw0Njc4OTAxMjM0NTY3\"}",
+      "url": "https://salud.gob.mx",
+      "notes": "Acceso a historia clínica y citas médicas",
+      "tags": ["Health"],
+      "favorite": false,
+      "createdAt": "2024-07-15T13:45:00.000Z",
+      "updatedAt": "2024-07-15T13:45:00.000Z"
+    }
+  ]
+}

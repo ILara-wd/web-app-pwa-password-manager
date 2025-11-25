@@ -1,0 +1,16 @@
+{
+  "passwords": [
+    {
+      "id": "template-001",
+      "title": "TÍTULO DE LA CONTRASEÑA",
+      "username": "tu-usuario-o-email@ejemplo.com",
+      "encryptedPassword": "{\"iv\":\"kUNZDCQmTg==\",\"data\":\"F01pKDQmTl5SIiw4Rl5SIiwzNzg5MTI=\"}",
+      "url": "https://www.ejemplo.com",
+      "notes": "Notas opcionales sobre esta contraseña",
+      "tags": ["Other"],
+      "favorite": false,
+      "createdAt": "2024-11-25T10:00:00.000Z",
+      "updatedAt": "2024-11-25T10:00:00.000Z"
+    }
+  ]
+}
