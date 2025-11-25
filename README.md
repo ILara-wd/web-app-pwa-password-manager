@@ -209,7 +209,7 @@ Esta aplicación es un proyecto educativo/MVP. Para uso en producción con datos
 
 ## 📞 Soporte
 
-Para reportar bugs o solicitar features, abre un [issue](https://github.com/tu-usuario/password-manager/issues).
+Para reportar bugs o solicitar features, abre un [issue](https://github.com/ILara-wd/web-app-pwa-password-manager/issues).
 
 ---
 
